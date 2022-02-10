@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Nodejs,Nosql**
 
 - 📫 How to reach me **shashankbist37@gmail.com**
-- <img src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F105553185002480695%2F&psig=AOvVaw21g4qWPCip1N7qj3lmrPGe&ust=1644566582295000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCB94nW9PUCFQAAAAAdAAAAABAO>
+- <img src=file:///Users/shashankbisht/Downloads/github%20octocat.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
