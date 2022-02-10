@@ -1,4 +1,4 @@
-<img height="400" src=https://wallpapershome.com/images/pages/pic_h/19737.jpg>
+<img height="400" width="1000" src=https://wallpapershome.com/images/pages/pic_h/19737.jpg>
 <h1 align="center">Hi 👋, I'm Shashank Bist</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
