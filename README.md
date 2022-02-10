@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shashankbist37@gmail.com**
 
-<img width="200" height="400" src=https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif>
+<img width="400" height="200" src=https://cdn.dribbble.com/users/906441/screenshots/6364613/walkcyclevector24_dribbble.gif>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
