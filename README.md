@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankbist37&label=Profile%20views&color=0e75b6&style=flat" alt="shashankbist37" /> </p>
 
-- 🔭 I’m currently working on **Dstays**
+- 🔭 I’m currently working on **prediciton of disease**
 
-- 🌱 I’m currently learning **Nodejs,Nosql**
+- 🌱 I’m currently learning **Nosql**
 
 - 📫 How to reach me **shashankbist37@gmail.com**
 
