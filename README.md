@@ -1,6 +1,6 @@
 <img height="400" width="1000" src=https://wallpapershome.com/images/pages/pic_h/19737.jpg>
 <h1 align="center">Hi 👋, I'm Shashank Bist</h1>
-<h3 align="center">A passionate Data scientist</h3>
+<h3 align="center">A passionate Ai Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankbist37&label=Profile%20views&color=0e75b6&style=flat" alt="shashankbist37" /> </p>
 
