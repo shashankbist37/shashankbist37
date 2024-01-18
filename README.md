@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashankbist37&label=Profile%20views&color=0e75b6&style=flat" alt="shashankbist37" /> </p>
 
-- 🔭 I’m currently working on **Skin Cancer Detection**
+- 🔭 I’m currently working on **Large Language Model**
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **Multi-model LLM and Generative AI**
 
 - 📫 How to reach me **shashankbist37@gmail.com**
 
